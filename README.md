@@ -10,15 +10,6 @@ Update a card (PUT / PATCH)
 
 Delete a card
 
-The API follows REST principles:
-
-Stateless communication
-
-Resource-based URLs
-
-Uses standard HTTP methods
-
-Returns appropriate HTTP status codes
 
 JSON formatted responses
 
